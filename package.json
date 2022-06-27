@@ -1,5 +1,6 @@
 {
     "name": "death-purple",
+    "publisher": "RockHouse",
     "displayName": "Death Purple",
     "description": "Dark purple theme",
     "version": "0.0.1",
@@ -17,5 +18,10 @@
                 "path": "./themes/Death Purple-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "url": "https://github.com/lvntcnylmz/Death-Purple-VsCode-Theme",
+        "type": "git"
+    },
+    "icon": "icon.png"
 }
